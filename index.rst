@@ -14,7 +14,7 @@ Welcome to Jiaying's documentation!
 
 Indices and tables
 ==================
-* :ref:`test1`
+* :ref:`latest version: 20180418`
 
 
 
